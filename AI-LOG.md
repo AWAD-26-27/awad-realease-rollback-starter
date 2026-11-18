@@ -1,15 +1,11 @@
-# AI-LOG.md — IA#4
+# AI log
 
-## <YYYY-MM-DD> — <what you were working on>
+## Packaging v1 — 2026-11-18
 
-Tool: <Claude Code / Copilot / Cursor / something else / none>
+Request: package v1 to pass I1–I15 without changing service behavior or protected tools/tests.
 
-Asked for: <the task you gave it, in one sentence>
+Baseline: clean starter commit `9bc9549`, existing tag `starter`. Docker access in the agent session currently fails with permission denied; verification is pending.
 
-Kept: <what you took as it came>
+Changed: pending implementation and verification.
 
-Changed: <what you rewrote, and why>
-
-Rejected: <what you threw away, and why>
-
-By hand: <the parts you wrote yourself>
+Rejected: pending actual findings; do not invent a failed implementation.
